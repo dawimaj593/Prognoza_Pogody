@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrognozaPogody</string>
+    <string name="helloworld">helloWorld</string>
+    <string name="polish_name">POLSKA</string>
+    <string name="warsaw_name">Warszawa</string>
+    <string name="szukaj">Szukaj</string>
+</resources>
